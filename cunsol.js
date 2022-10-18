@@ -1,7 +1,5 @@
-// program to print variables values
 
-// storing values
-const pesen = 'Hello my crush';
-const name = 'rpl';
-
-console.log(pesen + ' ' + name);
+console.log("my crush !");
+console.group();
+console.log("Dulu dia saya kagumi sekarang ");
+console.log("Terima kasih pernah memberikan semangat");
